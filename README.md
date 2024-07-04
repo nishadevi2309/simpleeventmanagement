@@ -8,20 +8,21 @@ A simple event management website for booking your events with event managersThi
    https://github.com/nishadevi2309/simpleeventmanagement.git
   
 
-2.Navigate to the project directory:
+**2.Navigate to the project directory:**
 cd event-management-system
 
-3.Set up the database:
+**3.Set up the database:**
 Import the SQL script located in the database directory into your MySQL database.
 Update the database configuration in config.php with your database credentials.
 
-4.Start the server using XAMPP:
+**4.Start the server using XAMPP:**
 Move the project folder to the htdocs directory of your XAMPP installation.
 Start Apache and MySQL from the XAMPP control panel.
 Open your browser and navigate to http://localhost/event-management-system.
 
 
 **Usage**
+
 1.Register:
 Open page1.php to access the registration page.
 Fill in your email and other required details to register.
@@ -50,7 +51,7 @@ Form submission for organizing events.
 Contact form for user queries.
 
 **Technologies Used**
-*PHP
-*MySQL
-*HTML/CSS
-*XAMPP
+PHP,
+MySQL,
+HTML/CSS,
+XAMPP
