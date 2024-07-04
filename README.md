@@ -21,7 +21,7 @@ Start Apache and MySQL from the XAMPP control panel.
 Open your browser and navigate to http://localhost/event-management-system.
 
 
-**Usage**
+**Usage:**
 
 1.Register:
 Open page1.php to access the registration page.
@@ -43,7 +43,7 @@ Submit the form to receive a confirmation message as an alert.
 6.Contact Event Manager:
 Use contact.php to write any additional queries to the event manager.
 
-**Features**
+**Features:**
 User registration and login.
 Homepage access after login.
 Display of event packages.
