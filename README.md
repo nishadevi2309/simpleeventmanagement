@@ -13,7 +13,7 @@ cd event-management-system
 
 **3.Set up the database:**
 Import the SQL script located in the database directory into your MySQL database.
-Update the database configuration in config.php with your database credentials.
+Update the database configuration in connection.php,authentication.php with your database credentials.
 
 **4.Start the server using XAMPP:**
 Move the project folder to the htdocs directory of your XAMPP installation.
