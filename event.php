@@ -203,7 +203,7 @@
                     
 		    <div class="col1">
                            <div> <ul>
-				<li><a href="home.php">Home</a> </li>
+				<li><a href="index.php">Home</a> </li>
 				<li><a href="formpage.php"> Event</a> </li>
 				
 				<li><a href="contact.php"> Contact</a> </li>
